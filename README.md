@@ -7,6 +7,7 @@ Members: </br>
 <li> Jagjot Nijjar </li>
 <li> Sean Steven C. Alcantara </li>
 </ul>
+
 ********************************
 
 <br><br>
@@ -53,3 +54,15 @@ Members: </br>
 
 <img src="" alt="Video overview of the project">
 This youtube video is an overview of the GitHub Wiki documentation of our proposed business.
+
+********************************
+
+## References: 
+
+Bibliography
+
+[1]	Alessandro Acquisti. Alessandro acquisti. Cmu.edu. Retrieved April 27, 2023 from https://www.heinz.cmu.edu/~acquisti/ </br>
+
+[2]	Congress.gov. Meredith Whittaker Biography. Congress.gov. Retrieved April 27, 2023 from https://www.congress.gov/116/meeting/house/109688/witnesses/HHRG-116-SY00-Bio-WhittakerM-20190626.pdf </br>
+
+[3]	Glenn Greenwald, Ewen MacAskill, and Laura Poitras. 2013. Edward Snowden: the whistleblower behind the NSA surveillance revelations. The guardian. Retrieved April 27, 2023 from https://www.theguardian.com/world/2013/jun/09/edward-snowden-nsa-whistleblower-surveillance </br>
