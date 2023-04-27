@@ -61,7 +61,7 @@ This youtube video is an overview of the GitHub Wiki documentation of our propos
 
 Bibliography
 
-[1]	Alessandro Acquisti. Alessandro acquisti. Cmu.edu. Retrieved April 27, 2023 from https://www.heinz.cmu.edu/~acquisti/ </br>
+[1]	Alessandro Acquisti. Bio. Cmu.edu. Retrieved April 27, 2023 from https://www.heinz.cmu.edu/~acquisti/ </br>
 
 [2]	Congress.gov. Meredith Whittaker Biography. Congress.gov. Retrieved April 27, 2023 from https://www.congress.gov/116/meeting/house/109688/witnesses/HHRG-116-SY00-Bio-WhittakerM-20190626.pdf </br>
 
