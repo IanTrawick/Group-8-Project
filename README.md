@@ -1,5 +1,12 @@
 <p align="center"> This is our Entrepreneurism and Ethics project for CS230. Our company is called DataTrough and it is a Data Analytics company marketed toward small businesses. Listed below is a brief overview of what each wiki page talks about and also a video presentation of each wiki page. </p>
 
+Members: </br>
+<ul>
+<li> Arjun Kumar Iyer </li>
+<li> Ian Trawick </li>
+<li> Jagjot Nijjar </li>
+<li> Sean Steven C. Alcantara </li>
+</ul>
 ********************************
 
 <br><br>
