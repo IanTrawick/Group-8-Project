@@ -52,8 +52,8 @@ Members: </br>
 
 ********************************
 
-<img src="" alt="Video overview of the project">
-This youtube video is an overview of the GitHub Wiki documentation of our proposed business.
+## <a href="https://youtu.be/ncdjT_11-_k"> Youtube </a> </br>
+This video is an overview of the GitHub Wiki documentation of our proposed business.
 
 ********************************
 
