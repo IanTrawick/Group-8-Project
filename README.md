@@ -14,7 +14,7 @@ Members: </br>
 
 <h1 align="center">DataTrough</h1>
 
-<p align="center"> Riding Waves Trough to Crest </p>
+<p align="center"> Riding Data: Trough to Crest </p>
 
 ********************************
 <ul>
